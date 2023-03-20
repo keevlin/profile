@@ -36,17 +36,13 @@
 <br>
 
 
-<!--  STATS  -->
+<!--  STATS  
 <h1 align="center"></h1>
 <br>
 <h1 align=center>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="GitHub Metrics" align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=gabazevdo&theme=tokyonight&border=61dafb&hide_border=true"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="GitHub Streak Stats" align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=gabazevdo&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true"/>
-    </a>
   </div>
   <br><br><br><br><br>
   <div align=center>
@@ -57,6 +53,7 @@
   <br>
 <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=gabazevdo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
 </h1> 
+-->
 
 
   <!--Metricas github-->
